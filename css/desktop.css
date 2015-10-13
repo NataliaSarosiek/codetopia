@@ -1,0 +1,36 @@
+
+body {
+  padding-top: 20px;
+}
+
+.panel.dimmed {
+  opacity: .5;
+}
+
+.panel.dimmed .panel-left {
+  text-decoration: line-through;
+}
+
+.panel-body {
+  padding: 8px;
+}
+
+.panel-left img {
+  margin-right: 10px;
+}
+
+.panel-right {
+  text-align: right;
+  padding: 8px 10px;
+}
+
+.panel-right .label {
+  margin-right: 25px;
+}
+
+.footer {
+  background-color: #f0f0f0;
+  margin-top: 50px;
+  padding: 40px 0px;
+  color: #999;
+}
