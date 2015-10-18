@@ -1,0 +1,8 @@
+*.DS_Store
+.git
+*.log
+
+
+node_modules
+client/static/build
+client/**/*.DS_Store

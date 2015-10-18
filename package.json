@@ -1,0 +1,63 @@
+{
+  "name": "codetopia",
+  "version": "1.0.0",
+  "description": "Boilerplate code for a quick live-coding session.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaSarosiek/codetopia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaSarosiek/codetopia/issues"
+  },
+  "homepage": "https://github.com/NataliaSarosiek/codetopia#readme",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.1.0",
+    "gulp-size": "^2.0.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6",
+    "lodash": "^3.10.1",
+    "react": "^0.14.0",
+    "react-addons": "^0.9.0",
+    "react-bootstrap": "^0.27.1",
+    "react-hot-loader": "^1.3.0",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "browserify": "^11.2.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.1.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-size": "^2.0.0",
+    "lodash": "^3.10.1",
+    "react": "^0.14.0",
+    "gulp-util": "^3.0.6",
+    "gulp-uglify": "^1.4.2",
+    "react-avatar-cropper": "^0.1.1",
+    "react-dom": "^0.14.0",
+    "react-bootstrap": "^0.27.1",
+    "react-addons": "^0.9.0",
+    "react-hot-loader": "^1.3.0",
+    "reactify": "^1.1.1"
+  }
+}
